@@ -169,9 +169,8 @@ if(num1===0||num2===0||num3===0){
   if(num1 > num2 && num1 >num3 && num1 >0){
   return "Número 1 es mayor y positivo"
 } return false
+
 }
-
-
 function esPrimo(numero) {
   // Devuelve "true" si "numero" es primo
   // De lo contrario devuelve "falso"
